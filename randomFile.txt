@@ -6,5 +6,5 @@ text
 in
 a
 random
-file
-
+file.
+Now I made some changes to this file.
